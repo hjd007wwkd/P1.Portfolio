@@ -1,0 +1,17 @@
+.skills-container {
+  background-color: rgba(248, 248, 248, 0.5);
+  width: 100%;
+  padding: 80px;
+
+  .skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+    img{
+      width: 100px;
+      height: 100px;
+    }
+  }
+}

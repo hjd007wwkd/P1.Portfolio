@@ -1,0 +1,14 @@
+.navb {
+  background-color: rgba(248, 248, 248, 0.5);
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: fixed;
+
+  .navb-brand {
+    font-size: 20px;
+    margin: 0;
+    margin-left: 20px;
+  }
+}
